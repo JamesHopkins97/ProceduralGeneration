@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\james\desktop\newpc\usb backups\dissertation\dissertationproject\proceduralalgorithms\opengl\source.cpp(108): warning C4101: 'textureTerrain': unreferenced local variable
+c:\users\james\desktop\newpc\usb backups\dissertation\dissertationproject\proceduralalgorithms\opengl\source.cpp(184): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\james\desktop\newpc\usb backups\dissertation\dissertationproject\proceduralalgorithms\opengl\source.cpp(192): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\james\desktop\newpc\usb backups\dissertation\dissertationproject\proceduralalgorithms\opengl\source.cpp(193): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\james\desktop\newpc\usb backups\dissertation\dissertationproject\proceduralalgorithms\opengl\source.cpp(319): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\james\desktop\newpc\usb backups\dissertation\dissertationproject\proceduralalgorithms\opengl\source.cpp(312): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\james\desktop\newpc\usb backups\dissertation\dissertationproject\proceduralalgorithms\opengl\source.cpp(344): warning C4390: ';': empty controlled statement found; is this the intent?
+  glad.c
+  OpenGL.vcxproj -> C:\Users\James\Desktop\NewPC\USB BACKUPS\Dissertation\DissertationProject\ProceduralAlgorithms\x64\Debug\OpenGL.exe
